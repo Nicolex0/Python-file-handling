@@ -1,0 +1,8 @@
+Hello there!
+
+This is a sample text file used for testing file read and write operations.
+The quick brown fox jumps over the lazy dog.
+
+Python is fun. Error handling is important.
+
+- End of file -
